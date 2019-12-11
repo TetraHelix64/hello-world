@@ -1,7 +1,7 @@
 # hello-world
-<h1>My 1st GitHub Repository.</h1>
+<h3>My 1st GitHub Repository.</h3>
 
-<p>Hi GtHubers,<br/>
+<p>Hi GitHubers,<br/>
 I love learning to code and hope to be a full-stack developer soon.<br/>
 Some Code studied so far:
 <ul>
