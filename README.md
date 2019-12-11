@@ -1,9 +1,8 @@
 # hello-world
 <h1>My 1st GitHub Repository.</h1>
 
-<p>
-  Hi GtHubers,
-I love learning to code and hope to be a full-stack developer soon.
+<p>Hi GtHubers,<br/>
+I love learning to code and hope to be a full-stack developer soon.<br/>
 Some Code studied so far:
 <ul>
 <li/>HTML
